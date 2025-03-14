@@ -24,8 +24,8 @@ I'm passionate about coding and building software that solves real-world problem
 
 ### Badges
 
-<a href="https://github.com/RookieJoel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RookieJoel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RookieJoel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RookieJoel&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RookieJoel/Columbus-Project-New-Heaven" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RookieJoel&repo=Columbus-Project-New-Heaven&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RookieJoel/Final-Project-CEE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RookieJoel&repo=Final-Project-CEE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RookieJoel/Columbus-Project-New-Heaven" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RookieJoel&repo=Columbus-Project-New-Heaven&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RookieJoel/Final-Project-CEE" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RookieJoel&repo=Final-Project-CEE&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
