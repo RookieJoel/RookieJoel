@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suttanop Chanah
 =======================================================================================================================================
 
-💻 Aspiring Software Developer | 🎓 Student at Chulalongkorn University
+💻 Aspiring Software Developer | 🎓 Computer Engineering Student at Chulalongkorn University
 -----------------------------------------------------------------------
 
 I'm passionate about coding and building software that solves real-world problems. Currently, I'm sharpening my skills in full-stack development and exploring different technologies to become a well-rounded software engineer. 🚀 Skills & Tech Stack: Languages: C++, Java, JavaScript, SQL Frontend: HTML, CSS, React, Svelte Backend & Databases: SQL, Backend Fundamentals 🎯 Goals: Become a skilled software developer Contribute to open-source projects Build innovative and impactful applications 📫 Let's Connect! Feel free to reach out or check out my projects here on GitHub. I'm always open to learning and collaborating on exciting projects!
