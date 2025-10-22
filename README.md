@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 Aspiring Software Developer | 🎓 Computer Engineering Student at Chulalongkorn University
 -----------------------------------------------------------------------
 
-I'm passionate about coding and building software that solves real-world problems. Currently, I'm sharpening my skills in full-stack development and exploring different technologies to become a well-rounded software engineer. 🚀 Skills & Tech Stack: Languages: C++, Java, JavaScript, SQL Frontend: HTML, CSS, React, Svelte Backend & Databases: SQL, Backend Fundamentals 🎯 Goals: Become a skilled software developer Contribute to open-source projects Build innovative and impactful applications 📫 Let's Connect! Feel free to reach out or check out my projects here on GitHub. I'm always open to learning and collaborating on exciting projects!
-
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [jojackchanah@gmail.com](mailto:jojackchanah@gmail.com)
-* 🧠  I'm learning Data analyst with AI/ML
+Computer Engineering student with a strong passion for developing reliable, scalable, and secure systems. Experienced in backend development with Node.js, Express, and databases like PostgreSQL/MongoDB, including hands-on experience deploying Dockerized applications. Eager to apply DevSecOps and cybersecurity principles to enhance software reliability through secure coding, CI/CD integration, and automation. Seeking an internship to leverage skills, gain real-world experience, and contribute to meaningful tech projects in a dynamic, fast-paced environment.
 
 
 ### Socials
