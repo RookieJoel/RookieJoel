@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suttanop Chanah
 =======================================================================================================================================
 
-💻 Aspiring Software Developer | 🎓 Computer Engineering Student at Chulalongkorn University
+Senior student in Computer Engineering at Chulalongkorn University | DevSecOps, Cloud Security and AI engineer enthusiast
 -----------------------------------------------------------------------
 
-Computer Engineering student with a strong passion for developing reliable, scalable, and secure systems. Experienced in backend development with Node.js, Express, and databases like PostgreSQL/MongoDB, including hands-on experience deploying Dockerized applications. Eager to apply DevSecOps and cybersecurity principles to enhance software reliability through secure coding, CI/CD integration, and automation. Seeking an internship to leverage skills, gain real-world experience, and contribute to meaningful tech projects in a dynamic, fast-paced environment.
+I’m a Computer Engineering student at Chulalongkorn University with a strong interest in AI engineering and secure, reliable backend systems. My experience spans Go and Node.js development, cloud deployment, and CI/CD pipelines with automated testing and security checks. More recently, I’ve been building AI agents and RAG applications, focusing on document processing, tool integration, evaluation, and tracing to understand how these systems behave and where they need improvement.
+
+Alongside these projects, I work as a Research Assistant, contributing to a healthcare software platform in collaboration with hospital teams. I enjoy turning technical ideas into practical solutions, and I want to use my skills to build technology that makes a meaningful difference in people’s lives.
+
+I’m always happy to share my experiences, techniques, and knowledge with others who share similar interests. I believe technical skills become more valuable when they help others grow, and that understanding something deeply includes being able to explain it clearly. Through building, learning, and sharing, I hope to turn my passion for technology into a positive contribution to society, even in small ways.
 
 
 ### Socials
